@@ -9,5 +9,7 @@ int main()
     cout << "Sergey_02" << endl;
     cout << "Sergey_03" << endl;
 
+    cout << "Olga_01" << endl;
+
     return 0;
 }
